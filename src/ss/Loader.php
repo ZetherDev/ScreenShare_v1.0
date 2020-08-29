@@ -19,7 +19,7 @@ class Loader extends ScreenShare {
 	private static $instance;
 	
 	/** @var Config */
-	public $config, $messages;
+	public $messages;
 	
 	public function onLoad() {
 		self::$instance = $this;
