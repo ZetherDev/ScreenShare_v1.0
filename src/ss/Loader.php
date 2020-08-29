@@ -32,7 +32,6 @@ class Loader extends ScreenShare {
 		
 		// Creation of the configuration files and folder
 		@mkdir($this->getDataFolder());
-		$this->saveResource("config.yml");
 		$this->saveResource("messages.yml");
 		
 		// Saving the settings in variables
