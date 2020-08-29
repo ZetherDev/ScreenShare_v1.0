@@ -1,0 +1,4 @@
+name: ScreenShare
+version: 1.0
+main: ss\Loader
+api: [2.0.0]

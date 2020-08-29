@@ -1,0 +1,12 @@
+---
+# Commands
+not-permission-message: "§cVocê não tem permissão para usar este comando"
+use-command-message: "§9Usa /ss [player]"
+jogador-exists-session: "§cO jogador {player} já está em outra screenshare"
+jogador-not-exists-message: "§cO jogador {player} não está no servidor"
+session-create-message: "§cO jogador {player} iniciou uma screenshare"
+session-destroy-message: "§aA screenshare de {player} acabou. O jogador não tem nada ilegal"
+# Listener
+format-chat-message: "§9[{player}] : {message}"
+
+...
